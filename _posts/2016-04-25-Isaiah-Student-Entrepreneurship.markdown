@@ -1,7 +1,7 @@
 ---
 title: "Isaiah King - Student Entrepreneur"
 layout: post
-date: 2016-04-25 13:46
+date: 2016-04-25 
 tag:
 - Isaiah
 - Student
