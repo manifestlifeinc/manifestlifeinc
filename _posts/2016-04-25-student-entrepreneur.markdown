@@ -2,9 +2,10 @@
 title: "Isaiah King - Student Entrepreneur"
 layout: post
 date: 2016-04-25 13:46
-tag: entrepreneurship
-- markdown
-- elements
+tag:
+- Isaiah
+- Student
+- Entrepreneur
 blog: true
 star: true
 ---
