@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
-permalink: privacy-policy.html
+permalink: privacy-policy.md
 ---
 
 <h1> Privacy Policy for Manifest Life</h1>
