@@ -4,7 +4,7 @@ bio: 'A Entity who travels the world, manifesting life'
 
 # if it's an external image, update below for true
 external-image: false
-picture: 'assets/images/profile.ai'
+picture: 'assets/images/profile-01.svg'
 
 url: http://manifestlifeinc.github.io
 # your url: http://USERNAME.github.io
