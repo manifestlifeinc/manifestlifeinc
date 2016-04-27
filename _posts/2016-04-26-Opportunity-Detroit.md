@@ -128,7 +128,7 @@ ineffective and there were numerous reasons that lead to its economic
 failure. The Downtown Detroit Project is taking steps to reduce and
 possibly eliminate these threats of urban decay.
 
-**Building an Entrepreneurial Ecosystem **
+** Building an Entrepreneurial Ecosystem **
 
 Through these economic struggles, Detroit has managed to begin piecing
 together the puzzle the recession left. As the pieces fell into place,
@@ -139,11 +139,9 @@ Unfortunately as we all know, it is not always easy to provide capital
 or enough creative ideas to innovate the mangled city, but that did not
 stop a man that embodies entrepreneurial spirit; Daniel Gilbert.
 
-![](media/image4.jpeg){width="2.4973687664041995in"
-height="3.4963167104111985in"}
+![Dan Gilbert](assets/images/od/OD_Dan_Gilbert-compressor.png)
 
-Known as the savior of Detroit, Gilbert has gone above and beyond with
-aiding the city in its time of need. Gilbert, a Detroit Native,
+Known as the savior of Detroit,[Gilbert](https://en.wikipedia.org/wiki/Dan_Gilbert_(businessman) has gone above and beyond with aiding the city in its time of need. Gilbert, a Detroit Native,
 dedicated large amounts of his time, efforts, and capital to help his
 city rise after seeing it fall. A major contributing factor in Gilbert’s
 investments in the city is his love for business. At a young age Gilbert
@@ -221,10 +219,10 @@ plan for downtown. Placing extreme importance on resident feedback,
 Opportunity Detroit’s vision is to provide Detroit residents with a city
 that is innovative and useful that agrees with their everyday lifestyle.
 
-**Implementation **
+**Implementation**
 
-![](media/image5.png){width="3.3020833333333335in"
-height="3.9895833333333335in"} The plan to revitalize the city has been
+
+![OD_Map](assets/od/od_map-compressor.png) The plan to revitalize the city has been
 portioned into six major sections of the city:
 
 These six sections each have specific implementation plans in order to
