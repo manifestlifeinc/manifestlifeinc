@@ -15,9 +15,10 @@ star: true
 
 
 # Revitalization through Innovation
-## Harris Demos, Isaiah King, Alexa Katsigianis
-### BUSS337 Managing the Growing Company
-#### December 8th 2014
+-------------------
+Harris Demos, Isaiah King, Alexa Katsigianis
+BUSS337 Managing the Growing Company
+December 8th 2014
 
 <span id="OLE_LINK1" class="anchor"><span id="OLE_LINK2"
 class="anchor"></span></span>Revitalization through Innovation
