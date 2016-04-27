@@ -7,7 +7,7 @@ tag:
 - Case Study
 blog: true
 star: true
-permalink: /blog/krispy-kreme-doughnuts-inc/
+permalink: pretty
 ---
 
 Krispy Kreme Case
