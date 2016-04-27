@@ -17,7 +17,7 @@ star: true
 
 # REVITALIZATION THROUGH INNOVATION: LASELL STUDENTS TRAVEL TO DETROIT, LEARN FROM ENTREPRENEURS REBUILDING MOTOR CITY
 
-##Harris Demos, [Isaiah King](http://linkedin.com/in/manifestlife), Alexa Katsigianis(BUSS337 Managing the Growing Company)##
+**Harris Demos, [Isaiah King](http://linkedin.com/in/manifestlife), Alexa Katsigianis(BUSS337 Managing the Growing Company)**
 
 As our small group of [Lasell College](http:lasell.edu) students took our first few steps
 through the Detroit Metro Airport, our opinions immediately began to
