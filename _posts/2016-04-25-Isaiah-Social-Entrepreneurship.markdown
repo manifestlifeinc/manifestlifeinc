@@ -9,7 +9,7 @@ tag:
 - Entrepreneur
 blog: true
 star: true
-permalink: /:path/:basename:output_ext
+permalink: pretty
 ---
 
 There was once a time where I was totally opposed toward the idea of college,
