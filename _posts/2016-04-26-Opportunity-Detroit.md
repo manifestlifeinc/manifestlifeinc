@@ -12,7 +12,7 @@ star: true
 
 
 
-![](/assets/images/OD/OD_Logo-compressor.png){width="6.5in" height="3.6875in"}
+![opportunity_detroit](/assets/images/OD/OD_Logo-compressor.png)
 
 <span id="OLE_LINK1" class="anchor"><span id="OLE_LINK2"
 class="anchor"></span></span>Revitalization through Innovation
@@ -27,9 +27,8 @@ learning philosophy and application has opened our minds to exploring
 opportunity of the unknown, which Detroit proved to be the best
 “unknown” any of us could have pictured.
 
-![](/assets/images/OD/OD_Dog-compressor.png){width="1.5833333333333333in"
-height="2.0520833333333335in"}![](/assets/images/OD/OD_Piano-compressor.png){width="2.1145833333333335in"
-height="2.1145833333333335in"} The streets showed us vivacious colors
+![opportunity_detroit](/assets/images/OD/OD_Dog-compressor.png)
+![](/assets/images/OD/OD_Piano-compressor.png)The streets showed us vivacious colors
 and innovative ideas that many other United States cities do not.
 Detroit’s vision is to transform Downtown into an urban neighborhood
 with a unique point of view, which is exactly what is being done.
