@@ -4,7 +4,7 @@ bio: 'A Entity who travels the world, manifesting life'
 
 # if it's an external image, update below for true
 external-image: false
-picture: 'assets/images/profile-01.svg'
+picture: 'assets/images/profile-01-compressor.svg'
 
 url: http://manifestlifeinc.github.io
 # your url: http://USERNAME.github.io
@@ -27,11 +27,11 @@ disqus: mydisqus
 # if you don't have any of social below, comment the line
 facebook: manifestlifeinc
 twitter: airizzy
-google: 110581828169592894926
+google: manifestlife
 instagram: manifestlifeinc
 pinterest: manifestlifeinc
 linkedin: manifestlife
-youtube: UCK6jMDcvm4Adff0yCIwlACA
+youtube: manifestlife
 spotify: myspotify
 github: manifestlifeinc
 medium: manifestlifeinc
