@@ -17,7 +17,7 @@ star: true
 # Revitalization through Innovation
 
 -------------------
-Harris Demos, [Isaiah King][http://linkedin.com/in/manifestlife], Alexa Katsigianis
+Harris Demos, [Isaiah King](http://linkedin.com/in/manifestlife), Alexa Katsigianis
 (BUSS337 Managing the Growing Company
 December 8th 2014)
 
