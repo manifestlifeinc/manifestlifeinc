@@ -10,8 +10,11 @@ blog: true
 star: true
 ---
 # Revitalization through Innovation
+
 ## Harris Demos, Isaiah King, Alexa Katsigianis
-### BUSS337: Managing the Growing Company
+
+### BUSS337 Managing the Growing Company
+
 #### December 8th 2014
 
 
