@@ -6,7 +6,7 @@ bio: 'A Entity who travels the world, manifesting life'
 external-image: false
 picture: 'assets/images/profile-01-compressor.svg'
 
-url: http://manifestlifeinc.github.io
+url: http://manifest.life
 # your url: http://USERNAME.github.io
 
 permalink: pretty
@@ -44,7 +44,7 @@ width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
 paginate: 3
-paginate_path: "blog/blog-post/"
+paginate_path: "blog/page:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
