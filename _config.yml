@@ -40,11 +40,11 @@ email: manifestlifeinc@icloud.com
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: large
+width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-paginate: 5
-paginate_path: "blog/blog-post/"
+# paginate: 5
+# paginate_path: "blog/blog-post/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
