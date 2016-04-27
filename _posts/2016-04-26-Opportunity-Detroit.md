@@ -17,9 +17,9 @@ star: true
 # Revitalization through Innovation
 
 -------------------
-Harris Demos, [Isaiah King](http://linkedin.com/in/manifestlife), Alexa Katsigianis
+**Harris Demos, [Isaiah King](http://linkedin.com/in/manifestlife), Alexa Katsigianis
 (BUSS337 Managing the Growing Company
-December 8th 2014)
+December 8th 2014)**
 
 As our small group of [Lasell College](http:lasell.edu) students took our first few steps
 through the Detroit Metro Airport, our opinions immediately began to
