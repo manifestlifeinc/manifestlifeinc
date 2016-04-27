@@ -9,7 +9,7 @@ picture: 'assets/images/profile-01-compressor.svg'
 url: http://manifestlifeinc.github.io
 # your url: http://USERNAME.github.io
 
-permalink: /:path/:basename:output_ext
+permalink: pretty
 
 markdown: kramdown
 highlighter: rouge
@@ -43,8 +43,8 @@ email: manifestlifeinc@icloud.com
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/blog-post/"
+paginate: 3
+paginate_path: "blog/blog-post/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
