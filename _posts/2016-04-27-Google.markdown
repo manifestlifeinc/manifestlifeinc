@@ -7,7 +7,6 @@ tag:
 - Case study
 blog: true
 star: true
-permalink: pretty
 ---
 
 <span id="h.gjdgxs" class="anchor"></span>

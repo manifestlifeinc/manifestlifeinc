@@ -7,7 +7,6 @@ tag:
 - Case Study
 blog: true
 star: true
-permalink: pretty
 ---
 
 Krispy Kreme Case
