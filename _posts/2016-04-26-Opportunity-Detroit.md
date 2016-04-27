@@ -9,15 +9,22 @@ tag:
 blog: true
 star: true
 ---
+# Revitalization through Innovation
+## Harris Demos, Isaiah King, Alexa Katsigianis
+### BUSS337: Managing the Growing Company
+#### December 8th 2014
 
 
 
 ![opportunity_detroit](/assets/images/OD/OD_Logo-compressor.png)
 
+
+First level header
+==================
 <span id="OLE_LINK1" class="anchor"><span id="OLE_LINK2"
 class="anchor"></span></span>Revitalization through Innovation
 
-As our small group of Lasell College students took our first few steps
+As our small group of [Lasell College](http:lasell.edu) students took our first few steps
 through the Detroit Metro Airport, our opinions immediately began to
 shift our perceived image of the “broken city” of Michigan. Our vision
 based on previous hearsay. However, Lasell College is aware that
