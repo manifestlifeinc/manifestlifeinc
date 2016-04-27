@@ -1,5 +1,6 @@
 ---
-title: "Opportunity Detroit"
+title: "REVITALIZATION THROUGH INNOVATION: LASELL STUDENTS TRAVEL TO DETROIT,
+LEARN FROM ENTREPRENEURS REBUILDING MOTOR CITY"
 layout: post
 date: 2016-04-26
 tag:
@@ -14,7 +15,7 @@ star: true
 
 
 
-# Revitalization through Innovation
+# REVITALIZATION THROUGH INNOVATION: LASELL STUDENTS TRAVEL TO DETROIT,LEARN FROM ENTREPRENEURS REBUILDING MOTOR CITY
 
 -------------------
 **Harris Demos, [Isaiah King](http://linkedin.com/in/manifestlife), Alexa Katsigianis
@@ -225,7 +226,7 @@ that is innovative and useful that agrees with their everyday lifestyle.
 The plan to revitalize the city has been
 portioned into six major sections of the city:
 
-![OD_Map](assets/images/od/od_map-compressor.png)
+![OD_Map](assets/images/OD/OD_Map.png)
 
 These six sections each have specific implementation plans in order to
 achieve the final goal for Detroit, centralized around one main vision;
@@ -276,7 +277,7 @@ now in Detroit increases, people will begin to flock to this once
 “broken” city and transform it into its true potential: a unique and
 incredible opportunity.
 
-Works Cited
+<!-- Works Cited
 
 A Better Solution for Detroit's Blight. (n.d.). Retrieved November 12,
 2014, from
@@ -315,7 +316,7 @@ Web. 25 Nov. 2014.
 
 United States Census Bureau. (n.d.). Retrieved November 12, 2014, from
 
-http://quickfacts.census.gov/qfd/states/26/2622000.html
+http://quickfacts.census.gov/qfd/states/26/2622000.html -->
 
 REVITALIZATION THROUGH INNOVATION: LASELL STUDENTS TRAVEL TO DETROIT,
 LEARN FROM ENTREPRENEURS REBUILDING MOTOR CITY
