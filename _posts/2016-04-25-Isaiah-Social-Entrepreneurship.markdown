@@ -13,7 +13,7 @@ permalink: pretty
 ---
 
 There was once a time where I was totally opposed toward the idea of college,
-and school in general. My first year at [Lasell][http://lasell.edu] was especially tough because I
+and school in general. My first year at [Lasell](http://lasell.edu) was especially tough because I
 spent two semesters on conduct probation. This left me with a feeling that
 overwhelmingly weighed down on my shoulders. When I received the letter saying I
 was being suspended, I felt like I broke my mother's heart. I appealed the
