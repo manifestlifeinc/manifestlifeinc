@@ -1,13 +1,15 @@
 ---
-title: "Isaiah King - Student Entrepreneur"
+title: "Isaiah King - Social Entrepreneur"
 layout: post
-date: 2016-04-25 
+date: 2016-04-25
 tag:
 - Isaiah
-- Student
+- King
+- Social
 - Entrepreneur
 blog: true
 star: true
+permalink: /blog/Isaiah-King-Social-Entrepreneur
 ---
 
 There was once a time where I was totally opposed toward the idea of college,
