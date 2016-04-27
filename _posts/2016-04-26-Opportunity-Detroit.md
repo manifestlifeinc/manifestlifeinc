@@ -223,7 +223,7 @@ that is innovative and useful that agrees with their everyday lifestyle.
 The plan to revitalize the city has been
 portioned into six major sections of the city:
 
-![OD_Map](assets/images/OD/OD_Map-compressor.png)
+![OD_Map](/assets/images/OD/OD_Map-compressor.png)
 
 These six sections each have specific implementation plans in order to
 achieve the final goal for Detroit, centralized around one main vision;
