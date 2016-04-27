@@ -129,7 +129,7 @@ ineffective and there were numerous reasons that lead to its economic
 failure. The Downtown Detroit Project is taking steps to reduce and
 possibly eliminate these threats of urban decay.
 
-** Building an Entrepreneurial Ecosystem **
+**Building an Entrepreneurial Ecosystem**
 
 Through these economic struggles, Detroit has managed to begin piecing
 together the puzzle the recession left. As the pieces fell into place,
@@ -140,7 +140,7 @@ Unfortunately as we all know, it is not always easy to provide capital
 or enough creative ideas to innovate the mangled city, but that did not
 stop a man that embodies entrepreneurial spirit; Daniel Gilbert.
 
-![Dan Gilbert](assets/images/od/OD_Dan_Gilbert-compressor.png)
+![Dan_Gilbert](/assets/images/OD/OD_Dan_Gilbert-compressor.png)
 
 Known as the savior of Detroit,[Gilbert](https://en.wikipedia.org/wiki/Dan_Gilbert_(businessman) has gone above and beyond with aiding the city in its time of need. Gilbert, a Detroit Native,
 dedicated large amounts of his time, efforts, and capital to help his
