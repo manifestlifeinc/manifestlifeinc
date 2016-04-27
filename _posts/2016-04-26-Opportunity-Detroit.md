@@ -32,10 +32,11 @@ opportunity of the unknown, which Detroit proved to be the best
 “unknown” any of us could have pictured.
 
 ![opportunity_detroit](/assets/images/OD/OD_Dog-compressor.png)
-![](/assets/images/OD/OD_Piano-compressor.png)The streets showed us vivacious colors
-and innovative ideas that many other United States cities do not.
-Detroit’s vision is to transform Downtown into an urban neighborhood
-with a unique point of view, which is exactly what is being done.
+![](/assets/images/OD/OD_Piano-compressor.png)
+
+The streets showed us vivacious colors and innovative ideas that many other
+United States cities do not. Detroit’s vision is to transform Downtown into an
+urban neighborhood with a unique point of view, which is exactly what is being done.
 
 Through these alterations, Detroit will continue to attract a young
 demographic: one that is willing to jump at the first site of
@@ -221,9 +222,10 @@ that is innovative and useful that agrees with their everyday lifestyle.
 
 **Implementation**
 
-
-![OD_Map](assets/od/od_map-compressor.png) The plan to revitalize the city has been
+The plan to revitalize the city has been
 portioned into six major sections of the city:
+
+![OD_Map](assets/images/od/od_map-compressor.png)
 
 These six sections each have specific implementation plans in order to
 achieve the final goal for Detroit, centralized around one main vision;
