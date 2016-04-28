@@ -2,9 +2,6 @@
 name: Manifest Life
 bio: 'A Entity who travels the world, manifesting life'
 
-source:      _source
-destination: _deploy
-
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/profile-01-compressor.svg'
