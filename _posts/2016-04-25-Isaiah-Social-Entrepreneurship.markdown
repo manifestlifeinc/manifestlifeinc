@@ -9,7 +9,6 @@ tag:
 - Entrepreneur
 blog: true
 star: true
-permalink: pretty
 ---
 
 There was once a time where I was totally opposed toward the idea of college,
