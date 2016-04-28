@@ -43,8 +43,8 @@ email: manifestlifeinc@icloud.com
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-paginate: 3
-paginate_path: "/blog/page:num/"
+# paginate: 3
+# paginate_path: "/blog/page:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
