@@ -12,24 +12,15 @@ layout: compress
     <meta name=description content="{{ site.bio }}">
     <meta name=author content="{{ site.name }}">
 
-    <meta name="msvalidate.01" content="0AA265B520E5162E2025904AC9F64929" />
-    <meta name="alexaVerifyID" content="YZKkM7BTz9iFLPDKqOE-DK8wD_I"/>
-
     {% seo %}
 
     {% include favicon.html %}
 
-    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ "/feed.xml" }}" />
+    <link rel="canonical" href="{{ site.github.url }}{{ page.url | replace:'index.html','' }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.github.url }}{{ "/feed.xml" }}" />
 
     <style>{% include main.css %}</style>
-
-    {% include analytics-google.html %}
-    
-    {% endif %}
-
 </head>
-
 <body>
 
     <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}">
@@ -49,7 +40,7 @@ layout: compress
 
     {% include icons.html %}
 
+    {% include analytics-google.html %}
 
 </body>
-
 </html>
