@@ -17,8 +17,6 @@ layout: compress
 
     {% seo %}
 
-
-
     {% include favicon.html %}
 
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
@@ -26,8 +24,6 @@ layout: compress
 
     <style>{% include main.css %}</style>
 
-
-    {% if jekyll.environment == 'production' %}
     {% include analytics-google.html %}
     {% endif %}
 
