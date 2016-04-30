@@ -26,6 +26,11 @@ layout: compress
 
     <style>{% include main.css %}</style>
 
+
+    {% if jekyll.environment == 'production' %}
+    {% include analytics-google.html %}
+    {% endif %}
+
 </head>
 
 <body>
@@ -47,7 +52,6 @@ layout: compress
 
     {% include icons.html %}
 
-    {% include analytics-google.html %}
 
 </body>
 
