@@ -6,12 +6,11 @@ bio: 'A Entity who travels the world, Manifesting Life'
 external-image: false
 picture: 'assets/images/profile-01-compressor.svg'
 
-url: http://manifestlifeinc.github.io
+url: http://manifest.life
 # your url: http://USERNAME.github.io
 
-permalink: /:title/
-
 markdown: kramdown
+-input: GFM
 highlighter: rouge
 
 # To enable google analytics, supply your token below
