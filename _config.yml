@@ -8,7 +8,7 @@ picture: 'assets/images/profile-01-compressor.svg'
 
 url: http://manifest.life
 # your url: http://USERNAME.github.io
-permalink: /:title/
+
 
 markdown: kramdown
 -input: GFM
