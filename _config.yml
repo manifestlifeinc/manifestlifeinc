@@ -1,21 +1,21 @@
 # main text of home
 name: Manifest Life
-bio: 'A Entity who travels the world, manifesting life'
+bio: 'A Entity who travels the world manifesting life'
 
 # if it's an external image, update below for true
 external-image: false
-picture: 'assets/images/profile-01-compressor.svg'
+picture: 'assets/images/profile.png'
 
-url: http://manifestlifeinc.github.io
-permalinks: none
+url: http://www.manifest.life
 # your url: http://USERNAME.github.io
 
+permalink: /:title/
+
 markdown: kramdown
-input: GFM
 highlighter: rouge
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-70678980-7'
+analytics-google: 'UA-77539742-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -35,7 +35,7 @@ youtube: manifestlife
 spotify: myspotify
 github: manifestlifeinc
 medium: manifestlifeinc
-email: manifestlifeinc@icloud.com
+email: we@manifest.life
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -43,8 +43,8 @@ email: manifestlifeinc@icloud.com
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 3
-# paginate_path: "/blog/page:num/"
+# paginate: 5
+# paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
@@ -77,6 +77,5 @@ gems:
 
 jekyll-mentions:
     base_url: https://github.com
-
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh]

@@ -5,7 +5,7 @@ permalink: /about/index.html
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Manifest Life (http://manifest.life) is a nonprofit lifestyle brand helping women and men who makeup the Millennial generation, self-identify as leaders by increasing overall awareness through the advocation of intercultural communications, unselfish design, and self-actualization. The brand believes in fostering an ecosystem that is built upon design-thinking and solution-based collaborators, all in order to enable opportunity of life for the future generations to come.
+<p>Manifest Life (http://manifest.life) is a social Enterprise helping women and men who makeup the Millennial generation, self-identify as leaders by increasing overall awareness through the advocation of intercultural communications, unselfish design, and self-actualization. The brand believes in fostering an ecosystem that is built upon design-thinking and solution-based collaborators, all in order to enable opportunity of life for the future generations to come.
 
 <p>Manifest Life, formed as a nonprofit C Corp, is a new company operating
 in the Internet Publishing and Broadcasting and Web Search Portal industry.
@@ -37,7 +37,7 @@ personal experience in the industry.</p>
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="http://manifest.life/Google-Case-Study/">Google</a></li>
+	<li><a href="http://manifest.life/opportunity-detroit">Opportunity Detroit</a></li>
+	<li><a href="http://manifest.life/Krispy-Kreme-Case-Study/">Krispy Kreme</a></li>
 </ul>
