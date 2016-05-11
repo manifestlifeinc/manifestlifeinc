@@ -12,8 +12,6 @@ layout: compress
     <meta name=description content="{{ site.bio }}">
     <meta name=author content="{{ site.name }}">
 
-    <meta name="msvalidate.01" content="0AA265B520E5162E2025904AC9F64929" />
-
     {% seo %}
 
     {% include favicon.html %}
@@ -22,15 +20,6 @@ layout: compress
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ "/feed.xml" }}" />
 
     <style>{% include main.css %}</style>
-
-    <!-- Start Alexa Certify Javascript -->
-<script type="text/javascript">
-_atrk_opts = { atrk_acct:"YIc8n1a4KM10WR", domain:"manifest.life",dynamic: true};
-(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
-</script>
-<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=YIc8n1a4KM10WR" style="display:none" height="1" width="1" alt="" /></noscript>
-<!-- End Alexa Certify Javascript -->
-
 </head>
 <body>
 
@@ -52,6 +41,8 @@ _atrk_opts = { atrk_acct:"YIc8n1a4KM10WR", domain:"manifest.life",dynamic: true}
     {% include icons.html %}
 
     {% include analytics-google.html %}
+
+    {% include facebook-pixle-code.html %}
 
 </body>
 </html>
