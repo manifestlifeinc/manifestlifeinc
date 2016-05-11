@@ -6,7 +6,7 @@ bio: 'A Entity who travels the world manifesting life'
 external-image: false
 picture: 'assets/images/profile.png'
 
-url: http://manifest.life
+url: http://www.manifest.life
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
