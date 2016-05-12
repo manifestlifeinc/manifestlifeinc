@@ -9,7 +9,6 @@ tag:
 - Entrepreneur
 blog: true
 star: true
-permalink: /opportunity-detroit
 ---
 ![opportunity_detroit](/assets/images/OD/OD_Logo-compressor.png)
 
