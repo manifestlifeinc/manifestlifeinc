@@ -1,11 +1,11 @@
 ---
 title: "Citizens United vs F.E.C."
 layout: post
-date: 2016-05-12 
-tag: citizens united
+date: 2016-05-12
+tag: citizens united F.E.C.
 img: assets/images/profile.png
 projects: true
-description: "This is a opinion and analysis written for the United States of America and for those who like increase awareness."
+description: "This is a opinionated  analysis written for the United States of America and for those who'd like to increase social/self awareness."
 ---
 
 **Citizens United v. Federal Elections Commission (2010)**
