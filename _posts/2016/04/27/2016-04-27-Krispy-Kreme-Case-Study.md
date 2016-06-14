@@ -1,5 +1,5 @@
 ---
-title: "Krispy Kreme - Case Study"
+title: "Krispy Kreme"
 layout: post
 date: 2016-04-27
 tag:
@@ -9,7 +9,7 @@ blog: true
 star: true
 ---
 
-Krispy Kreme Case
+Krispy Kreme - Case Study
 
 Robyn Crean, Jason DiCarlo, Amy Granville, Isaiah King
 

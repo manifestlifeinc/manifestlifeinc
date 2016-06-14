@@ -1,5 +1,5 @@
 ---
-title: "Google - Case Study"
+title: "Google"
 layout: post
 date: 2016-04-27
 tag:
@@ -11,7 +11,7 @@ star: true
 
 <span id="h.gjdgxs" class="anchor"></span>
 
-**Google Case**
+**Google - Case Study**
 
 By: Robyn Crean, Jason DiCarlo,
 
