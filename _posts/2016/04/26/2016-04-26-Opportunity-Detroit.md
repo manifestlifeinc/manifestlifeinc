@@ -1,6 +1,5 @@
 ---
-title: "REVITALIZATION THROUGH INNOVATION: LASELL STUDENTS TRAVEL TO DETROIT,
-LEARN FROM ENTREPRENEURS REBUILDING MOTOR CITY"
+title: "Revitalization through Innovation: Lasell College Entrepreneurs Travel to Detroit"
 layout: post
 date: 2016-04-26
 tag:

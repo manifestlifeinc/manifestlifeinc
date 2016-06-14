@@ -1,5 +1,5 @@
 ---
-title: "Google - An in-depth Analysis"
+title: "Google - An In-depth Analysis"
 layout: post
 date: 2016-04-27
 tag:
@@ -8,7 +8,7 @@ tag:
 - Search Engine
 blog: true
 star: true
-permalink: /google.html
+permalink: /google/
 ---
 
 <span id="h.gjdgxs" class="anchor"></span>
