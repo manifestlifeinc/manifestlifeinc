@@ -5,8 +5,10 @@ date: 2016-04-27
 tag:
 - Google
 - Case study
+- Search Engine
 blog: true
 star: true
+permalink: /google.html
 ---
 
 <span id="h.gjdgxs" class="anchor"></span>
