@@ -18,7 +18,7 @@ star: true
 
 **Harris Demos, [Isaiah King](http://linkedin.com/in/manifestlife), Alexa Katsigianis(BUSS337 Managing the Growing Company)**
 
-As our small group of [Lasell College](http:lasell.edu) students took our first few steps
+As our small group of [Lasell College](http://lasell.edu) students took our first few steps
 through the Detroit Metro Airport, our opinions immediately began to
 shift our perceived image of the “broken city” of Michigan. Our vision
 based on previous hearsay. However, Lasell College is aware that
