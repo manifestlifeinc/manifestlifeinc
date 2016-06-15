@@ -5,7 +5,7 @@ bio: 'Manifest Life Inc is a nonprofit lifestyle brand helping Millennials self-
 external-image: false
 picture: 'assets/images/profile.png'
 
-url: http://www.manifest.life
+url: http://manifestlifeinc.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
