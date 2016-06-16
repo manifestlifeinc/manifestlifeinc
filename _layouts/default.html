@@ -4,7 +4,6 @@ layout: compress
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
     <meta charset="utf-8">
     <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
     <meta name=viewport content="width=device-width, initial-scale=1">
@@ -19,11 +18,7 @@ layout: compress
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ "/feed.xml" }}" />
 
-    <style>
-    {% capture scss_sheet %}{% include style.scss %}{% endcapture %}
-    {{ scss_sheet | scssify }}
-    </style>
-
+    <style>{% include main.css %}</style>
 </head>
 <body>
 
@@ -31,7 +26,7 @@ layout: compress
         {% if page.tag %}
             <div class="post">
         {% else %}
-            {% if showHeader != true %}
+            {% if page.title == "About" or page.title == "404" %}
                 <div class="page {{ page.title | downcase }}">
             {% else %}
                 <div class="{{ page.title | downcase }}">
@@ -45,6 +40,8 @@ layout: compress
     {% include icons.html %}
 
     {% include analytics-google.html %}
+
+    {% include facebook-pixle-code.html %}
 
 </body>
 </html>
