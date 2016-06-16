@@ -1,4 +1,4 @@
-ampdir: /
+ampdir: /index.amp.
 
 # main text of home
 name: Manifest Life - Creative
@@ -73,6 +73,9 @@ gems:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-redirect-from
+  -jekyll-coffeescript 
+  -jekyll-watch
+  - jekyll-assets
 
 jekyll-mentions:
     base_url: https://github.com
