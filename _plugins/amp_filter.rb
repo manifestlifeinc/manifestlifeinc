@@ -1,5 +1,4 @@
 require 'nokogiri'
-require 'fastimage'
 
 module Jekyll
   module AmpFilter
