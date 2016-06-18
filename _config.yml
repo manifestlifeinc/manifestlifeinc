@@ -71,8 +71,8 @@ gems:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-redirect-from
-  -jekyll-coffeescript
-  -jekyll-watch
+  - jekyll-coffeescript
+  - jekyll-watch
   - jekyll-assets
 
 jekyll-mentions:
