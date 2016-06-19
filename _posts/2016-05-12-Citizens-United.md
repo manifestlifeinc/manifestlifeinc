@@ -6,6 +6,7 @@ tag: citizens united F.E.C.
 img: assets/images/profile.png
 projects: true
 description: "This is a opinionated  analysis written for the United States of America and for those who'd like to increase social/self awareness."
+permalink: Citizens-United-v-Federal-Election-Commission
 ---
 
 **Citizens United v. Federal Elections Commission (2010)**
