@@ -100,20 +100,6 @@ sue the FEC and challenge Section 203 of the 2002 Bipartisan Campaign Reform Act
 “barred corporations and unions from paying for media that mentioned any
 candidate in periods immediately preceding elections”.[^19]
 
-[^15]: *Citizens United v. Federal Election Committee,* 2010.
-
-[^16]: *Citizens United v. Federal Election Committee,* 2010.
-
-[^17]: Brian Duignan, “Citizens United v. Federal Election Commission,”
-*Encyclopedia Britannica:* Law Case (2010).
-(http://www.britannica.com/event/Citizens-United-v-Federal-Election-Commission).
-
-[^18]: Duignan, “Citizens United v. Federal Election Commission,” Law Case
-(2010).
-
-[^19]: Nick Bentley, “What Is Citizens United? \| An Introduction,” Reclaim
-Democracy – Restoring Citizen Authority Over Corporations (2015).
-(http://reclaimdemocracy.org/who-are-citizens-united/).
 
 On January 21, 2010, when the U.S. Supreme Court Ruled (5-4) that laws
 preventing corporations and unions from using general treasury funds violate the
