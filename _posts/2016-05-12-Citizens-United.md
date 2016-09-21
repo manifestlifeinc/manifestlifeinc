@@ -248,6 +248,7 @@ democracy can be restored.
  
 
 Bibliography
+
 [^1]: John Dewey, “The Historic Background of Legal Personality,” *Yale Law
 Journal* 35, no. 6 (1926): 655-73.
 (http://rci.rutgers.edu/\~tripmcc/phil/dewey-historic\_background\_of\_corporate\_legal\_personality.pdf.).
