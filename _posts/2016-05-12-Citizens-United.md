@@ -31,11 +31,6 @@ and to sue and be sued in their own name.[^1] Capacity is an aspect of status,
 and once defined by natural or judicial personal law, persons can carry their
 capacity around with them, in resemblance to a passport. [^2]
 
-[^1]: John Dewey, “The Historic Background of Legal Personality,” *Yale Law
-Journal* 35, no. 6 (1926): 655-73.
-(http://rci.rutgers.edu/\~tripmcc/phil/dewey-historic\_background\_of\_corporate\_legal\_personality.pdf.).
-
-[^2]: John Dewey, “The Historic Background of Legal Personality.”
 
 Synecdoche, meaning simultaneously understanding, is a figure of speech that
 creates a play on words by referring to something with a related concept. [^3]
@@ -51,16 +46,6 @@ after the Court’s decision in *Citizens United v. Federal Election Commission*
 (2010), and, 2. Offer insight toward a deep-rooted issue regarding the topic of
 personhood within the First Amendment of the Constitution.
 
-[^3]: *Oxford English Dictionary, s.v. “*synecdoche,”
-(http://www.sas.upenn.edu/\~haroldfs/dravling/synec.html).
-
-[^4]: Richard A. Friedrichs, “*Trusted Criminals: White Collar Crime in
-Contemporary Society,”* Belmont, MA: Wadsworth Publishing Company (1996).
-(https://books.google.com/books?id=ZQGmgHjovawC&pg=PA273\#v=onepage&q&f=false).
-
-[^5]: Richard A. Friedrichs, “*Trusted Criminals: White Collar Crime in
-Contemporary Society.”*
-
 Overview
 
 In a 5-4 vote, the justices who made up the Roberts Court during 2009 declared
@@ -75,13 +60,6 @@ expenditures that Citizens United presented were considered to be unsustainable,
 which therein the Court took upon itself to analyze the overly broad scope of
 facial challenges.[^8]
 
-[^6]: *Citizens United v. Federal Election Committee,* No. 08-25, 558 U.S. 310
-(2010).
-
-[^7]: *Citizens United v. Federal Election Committee,* 2010.
-
-[^8]: *Citizens United v. Federal Election Committee,* 2010*.*
-
 As a result, the Court identified a compelling governmental interest limiting
 political speech by corporations through the rational of anti-distortion. The
 court also then rejected, through ideological philosophy, the anticorruption
@@ -91,11 +69,6 @@ Campaign Reform Act (hereon out known as “BCRA”) were upheld by the Court. T
 is because cases such as *Buckley v. Valeo* (1976) and *McConnell v. FEC* (2003)
 as applied to *Citizens United* established that the BCRA requirements imposed
 no ceiling, or prevented anyone from publicly speaking.[^10]
-
-[^9]: *Citizens United v. Federal Election Committee,* 2010*.*
-
-[^10]: *Citizens United v. Federal Election Committee,* No. 08-25, 558 U.S. 310
-(2010).
 
 Historical Relevance and Past Precedents
 
@@ -111,17 +84,6 @@ into the governmental system.[^13] However, controversy surrounding this issue
 did not peak until over a century after it was introduced, during the Supreme
 Court Term of 2009-2010, when an extremely controversial decision was made in
 the infamous *Citizens United v. Federal Election Commission (FEC)* case.[^14]
-
-[^11]: *Citizens United v. Federal Election Committee,* 2010.
-
-[^12]: *Citizens United v. Federal Election Committee,* 2010.
-
-[^13]: *Citizens United v. Federal Election Committee,* 2010.
-
-[^14]: Richard Epstein, “Citizens United v. FEC: The Constitutional Right That
-Corporations Should Have But Do Not Want,” *Harvard Journal of Law & Public
-Policy* 34, no. 2 (2013): 639.
-(http://www.harvard-jlpp.com/wp-content/uploads/2013/10/EpsteinFinal.pdf.).
 
 The Federal Election Campaign Act (FECA) was passed in 1971 and was meant to
 prohibit corporations and labor unions from “using their general treasury funds
@@ -170,19 +132,6 @@ government.[^22] Finally, the *Citizens United* decision also “effectively
 negates parts of the Court’s 2007 ruling in *Wisconsin Right to Life v. Federal
 Election Commission”*.[^23]
 
-[^20]: Duignan, “Citizens United v. Federal Election Commission,” Law Case
-(2010).
-
-[^21]: Robert Weissman, David Arkush, and Craig Holman, “Testimony Submitted on
-Behalf of Public Citizen on Citizens United v. FEC,” Public Citizen – Protecting
-Health, Safety, and Democracy, February 3, 2010: 1.
-(http://www.citizen.org/documents/Final testimony on CU.pdf).
-
-[^22]: *Citizens United v. Federal Election Committee,* No. 08-25, 558 U.S. 310
-(2010).
-
-[^23]: Weissman, “Testimony Submitted on Behalf of Public Citizen,” 1.
-
 Concurring Opinions and Make-Up of The Court
 
 In the case of *Citizens United v. FEC*, the Roberts Court had a total of five
@@ -191,12 +140,6 @@ Court was appointed by President Bush and sought to be wholly conservative.[^24]
 Chief Justice Roberts wrote the majority’s opinion with the support of five
 Republican elected justices. The justices in support were Justice Kennedy,
 Alito, Scalia, and Thomas (in part).[^25]
-
-[^24]: Nick Bentley, “What is Citizens United? \| An Introduction,” Reclaim
-Democracy – Restoring Citizen Authority Over Corporations (2015).
-(http://reclaimdemocracy.org/who-are-citizens-united/).
-
-[^25]: *Citizens United v. Federal Election Committee,* 2010.
 
 The majority’s opinion primarily states that political speech is indispensible
 from a democracy; moreover, “speech” is constitutionally interpreted by the
@@ -208,12 +151,6 @@ majority’s opinion detailed that the BCRA disclosures were constitutional
 because 1. They justified governmental interests, and 2. Provided electorates
 with valuable information, and 3. Felt irresponsible to prevent corruption due
 to the protection of a free marketplace of ideas.[^28]
-
-[^26]: Bentley, “What is Citizens United? \| An Introduction.”
-
-[^27]: Bentley, “What is Citizens United? \| An Introduction.”
-
-[^28]: Bentley, “What is Citizens United? \| An Introduction.”
 
 The minority, represented by Justice Stevens, Ginsburg, Breyer, and Sotomayer
 argued that the First Amendment only protects individual speech.[^29] Democracy
@@ -227,13 +164,6 @@ support of Justices Alito and Thomas. In this opinion, Justice Stevens’ view o
 the framers’ interpretation was criticized. The final concurring opinion came
 from Justice Thomas, who argued that anonymous free speech should be protected
 by the Constitution. [^31]
-
-[^29]: *Citizens United v. Federal Election Committee*, No. 08-25, 558 U.S. 310
-(2010).
-
-[^30]: *Citizens United v. Federal Election Committee,* 2010.
-
-[^31]: *Citizens United v. Federal Election Committee,* 2010.
 
 Legacy
 
@@ -254,20 +184,6 @@ unions while simultaneously narrowing the views they represent – ultimately
 undermining the role of political parties in determining who will hold public
 office. [^35]
 
-[^32]: Nick Bentley, “What is Citizens United? \| An Introduction,” Reclaim
-Democracy – Restoring Citizen Authority Over Corporations (2015).
-(http://reclaimdemocracy.org/who-are-citizens-united/).
-
-[^33]: Bentley, “What is Citizens United? \| An Introduction.”
-
-[^34]: Robert Weissman, David Arkush, and Craig Holman, “Testimony Submitted on
-Behalf of Public Citizen on Citizens United v. FEC,” Public Citizen – Protecting
-Health, Safety, and Democracy, February 3, 2010: 1.
-(http://www.citizen.org/documents/Final testimony on CU.pdf).
-
-[^35]: *Citizens United v. Federal Election Committee,* No. 08-25, 558 U.S. 310
-(2010).
-
 While many Americans criticized the *Citizens United* decision as an
 “overreaching attempt to rewrite campaign finance law,” others perceived the
 decision as a “resounding victory for freedom of speech”.[^36] The Court’s
@@ -277,15 +193,6 @@ and the case is therefore considered “one of the most divisive decisions of th
 Court in recent years”.[^37] Nonetheless, the majority of justices in the
 Supreme Court during this case were determined to uphold the First Amendment of
 the Constitution by protecting corporations’ “freedom of speech.”
-
-[^36]: Brian Duignan, “Citizens United v. Federal Election Commission,”
-*Encyclopedia Britannica:* Law Case (2010).
-(http://www.britannica.com/event/Citizens-United-v-Federal-Election-Commission).
-
-[^37]: Richard Epstein, “Citizens United v. FEC: The Constitutional Right That
-Corporations Should Have But Do Not Want,” *Harvard Journal of Law & Public
-Policy* 34, no. 2 (2013): 641.
-(http://www.harvard-jlpp.com/wp-content/uploads/2013/10/EpsteinFinal.pdf.).
 
 Conclusion
 
@@ -302,18 +209,6 @@ limits as applied to SpeechNow “violate the First Amendment by preventing
 individuals from donating to SpeechNow in excess of the limits and by
 prohibiting SpeechNow from accepting donations in excess of the limits”.[^41]
 
-[^38]: Federal Elections Commission. “Speechnow.org v. FEC, Keating v. FEC
-Summary.” SpeechNOW (2010). (http://www.fec.gov/law/litigation/speechnow.shtml).
-
-[^39]: Federal Elections Commission, “Speechnow.org v. FEC, Keating v. FEC
-Summary.”
-
-[^40]: Federal Elections Commission, “Speechnow.org v. FEC, Keating v. FEC
-Summary.”
-
-[^41]: Federal Elections Commission, “Speechnow.org v. FEC, Keating v. FEC
-Summary.”
-
 Ultimately, the plaintiffs in the case, *SpeechNow,* asked the Court to find the
 contribution limits, reporting requirements and political committee registration
 requirements unconstitutional as applied to their proposed activities. The
@@ -326,43 +221,18 @@ contributions to SpeechNow”.[^43] The court also ruled that the reporting
 requirements of 2 U.S.C. 432, 433 and 434(a) and the organizational requirements
 of 2 U.S.C 431(4) and 431(8) can be constitutionally applied to SpeechNow.[^44]
 
-[^42]: Federal Elections Commission, “Speechnow.org v. FEC, Keating v. FEC
-Summary.”
-
-[^43]: Federal Elections Commission, “Speechnow.org v. FEC, Keating v. FEC
-Summary.”
-
-[^44]: Federal Elections Commission, “Speechnow.org v. FEC, Keating v. FEC
-Summary.”
-
 Following the ruling of *Speechnow v. FEC*, then came the topic of electoral
 financing. In *McComish v. Bennett* (2011)*,* the Supreme Court deemed an
 Arizona law that provided extra taxpayer-funded support for office seekers who
 have been outspent by privately funded campaigns.[^45] An article published by
 CNN reports:
 
-[^45]: Bill Mears, "Justices Strike Down Taxpayer-supported Campaign Spending
-Law," CNN (June 27, 2011).
-(http://edition.cnn.com/2011/US/06/27/scotus.arizona.campaign.finance/index.html).
-
->   “A conservative 5-4 majority of justices said the law violated free speech,
->   concluding the state was impermissibly trying to ‘level the playing field’
->   through a public finance system. Arizone lawmakers had argued there was a
->   compelling state interest in equalizing resourcs among competing candidates
->   and interest groups”. [^46]
-
-[^46]: Mears, “Justices Strike Down Taxpayer-supported Campaign Spending Law.”
+   “A conservative 5-4 majority of justices said the law violated free speech, concluding the state was impermissibly trying to ‘level the playing field’ through a public finance system. Arizone lawmakers had argued there was a compelling state interest in equalizing resourcs among competing candidates and interest groups”. [^46]
 
 As a result of this decision, states and municipalities are prevented from using
 a source of public financing.[^47] All in all, the ruling meant the end of
 similar fundraising programs in Connecticut, Maine and several other states.
 [^48]
-
-[^47]: Jess Bravins and Brent Kendall, “Campaign Funding Measure in Arizona
-Overturned,” *The Wall Street Journal* (June 28, 2011).
-(http://www.wsj.com/articles/SB10001424052702304447804576411652081842860).
-
-[^48]: Bravins, “Justices Strike Down Taxpayer-supported Campaign Spending Law.”
 
 In *Western Tradition Partnership, Inc. v. Attorney General of Montana,* the
 state of Montana believed that they had a compelling reason to maintain
@@ -379,20 +249,6 @@ federal aggregate limits on federal candidates.[^51] In 2014, the Supreme Court
 reversed a ruling that struck down and invalidated aggregate limits, but not the
 limits on giving to any one candidate or party.[^52]
 
-[^49]: *Western Tradition Partnership, Inc. v. Attorney General of Montana,*
-2011 M.T. 328 (2012).
-(http://electionlawblog.org/wp-content/uploads/MT-expenditures-decision.pdf).
-
-[^50]: *Western Tradition Partnership, Inc. v. Attorney General of Montana,*
-2012.
-
-[^51]: Ben Jacobs. "Meet Sean McCutcheon, the Republican Activist Trying to Make
-History at the Supreme Court." *The Daily Beast* (October 8, 2013).
-(http://www.thedailybeast.com/articles/2013/10/08/meet-shaun-mccutcheon-the-republican-activist-trying-to-make-history-at-the-supreme-court.html).
-
-[^52]: Jacobs, “Meet Sean McCutcheon, the Republican Activist Trying to Make
-History at the Supreme Court.”
-
 Ultimately, the issues of independent expenditure will only continue to grow
 larger for our democracy. I believe that the only way for campaign finance law
 to function sustainably is by differentiating the subject of “personhood”
@@ -406,6 +262,166 @@ democracy can be restored.
  
 
 Bibliography
+[^1]: John Dewey, “The Historic Background of Legal Personality,” *Yale Law
+Journal* 35, no. 6 (1926): 655-73.
+(http://rci.rutgers.edu/\~tripmcc/phil/dewey-historic\_background\_of\_corporate\_legal\_personality.pdf.).
+
+[^2]: John Dewey, “The Historic Background of Legal Personality.”
+
+[^3]: *Oxford English Dictionary, s.v. “*synecdoche,”
+(http://www.sas.upenn.edu/\~haroldfs/dravling/synec.html).
+
+[^4]: Richard A. Friedrichs, “*Trusted Criminals: White Collar Crime in
+Contemporary Society,”* Belmont, MA: Wadsworth Publishing Company (1996).
+(https://books.google.com/books?id=ZQGmgHjovawC&pg=PA273\#v=onepage&q&f=false).
+
+[^5]: Richard A. Friedrichs, “*Trusted Criminals: White Collar Crime in
+Contemporary Society.”*
+
+[^6]: *Citizens United v. Federal Election Committee,* No. 08-25, 558 U.S. 310
+(2010).
+
+[^7]: *Citizens United v. Federal Election Committee,* 2010.
+
+[^8]: *Citizens United v. Federal Election Committee,* 2010*.*
+
+
+[^9]: *Citizens United v. Federal Election Committee,* 2010*.*
+
+[^10]: *Citizens United v. Federal Election Committee,* No. 08-25, 558 U.S. 310
+(2010).
+
+[^11]: *Citizens United v. Federal Election Committee,* 2010.
+
+[^12]: *Citizens United v. Federal Election Committee,* 2010.
+
+[^13]: *Citizens United v. Federal Election Committee,* 2010.
+
+[^14]: Richard Epstein, “Citizens United v. FEC: The Constitutional Right That
+Corporations Should Have But Do Not Want,” *Harvard Journal of Law & Public
+Policy* 34, no. 2 (2013): 639.
+(http://www.harvard-jlpp.com/wp-content/uploads/2013/10/EpsteinFinal.pdf.).
+
+[^15]: *Citizens United v. Federal Election Committee,* 2010.
+
+[^16]: *Citizens United v. Federal Election Committee,* 2010.
+
+[^17]: Brian Duignan, “Citizens United v. Federal Election Commission,”
+*Encyclopedia Britannica:* Law Case (2010).
+(http://www.britannica.com/event/Citizens-United-v-Federal-Election-Commission).
+
+[^18]: Duignan, “Citizens United v. Federal Election Commission,” Law Case
+(2010).
+
+[^19]: Nick Bentley, “What Is Citizens United? \| An Introduction,” Reclaim
+Democracy – Restoring Citizen Authority Over Corporations (2015).
+(http://reclaimdemocracy.org/who-are-citizens-united/).
+
+[^20]: Duignan, “Citizens United v. Federal Election Commission,” Law Case
+(2010).
+
+[^21]: Robert Weissman, David Arkush, and Craig Holman, “Testimony Submitted on
+Behalf of Public Citizen on Citizens United v. FEC,” Public Citizen – Protecting
+Health, Safety, and Democracy, February 3, 2010: 1.
+(http://www.citizen.org/documents/Final testimony on CU.pdf).
+
+[^22]: *Citizens United v. Federal Election Committee,* No. 08-25, 558 U.S. 310
+(2010).
+
+[^23]: Weissman, “Testimony Submitted on Behalf of Public Citizen,” 1.
+
+[^24]: Nick Bentley, “What is Citizens United? \| An Introduction,” Reclaim
+Democracy – Restoring Citizen Authority Over Corporations (2015).
+(http://reclaimdemocracy.org/who-are-citizens-united/).
+
+[^25]: *Citizens United v. Federal Election Committee,* 2010.
+
+
+[^26]: Bentley, “What is Citizens United? \| An Introduction.”
+
+[^27]: Bentley, “What is Citizens United? \| An Introduction.”
+
+[^28]: Bentley, “What is Citizens United? \| An Introduction.”
+
+
+[^29]: *Citizens United v. Federal Election Committee*, No. 08-25, 558 U.S. 310
+(2010).
+
+[^30]: *Citizens United v. Federal Election Committee,* 2010.
+
+[^31]: *Citizens United v. Federal Election Committee,* 2010.
+
+
+[^32]: Nick Bentley, “What is Citizens United? \| An Introduction,” Reclaim
+Democracy – Restoring Citizen Authority Over Corporations (2015).
+(http://reclaimdemocracy.org/who-are-citizens-united/).
+
+[^33]: Bentley, “What is Citizens United? \| An Introduction.”
+
+[^34]: Robert Weissman, David Arkush, and Craig Holman, “Testimony Submitted on
+Behalf of Public Citizen on Citizens United v. FEC,” Public Citizen – Protecting
+Health, Safety, and Democracy, February 3, 2010: 1.
+(http://www.citizen.org/documents/Final testimony on CU.pdf).
+
+[^35]: *Citizens United v. Federal Election Committee,* No. 08-25, 558 U.S. 310
+(2010).
+
+[^36]: Brian Duignan, “Citizens United v. Federal Election Commission,”
+*Encyclopedia Britannica:* Law Case (2010).
+(http://www.britannica.com/event/Citizens-United-v-Federal-Election-Commission).
+
+[^37]: Richard Epstein, “Citizens United v. FEC: The Constitutional Right That
+Corporations Should Have But Do Not Want,” *Harvard Journal of Law & Public
+Policy* 34, no. 2 (2013): 641.
+(http://www.harvard-jlpp.com/wp-content/uploads/2013/10/EpsteinFinal.pdf.).
+
+
+[^38]: Federal Elections Commission. “Speechnow.org v. FEC, Keating v. FEC
+Summary.” SpeechNOW (2010). (http://www.fec.gov/law/litigation/speechnow.shtml).
+
+[^39]: Federal Elections Commission, “Speechnow.org v. FEC, Keating v. FEC
+Summary.”
+
+[^40]: Federal Elections Commission, “Speechnow.org v. FEC, Keating v. FEC
+Summary.”
+
+[^41]: Federal Elections Commission, “Speechnow.org v. FEC, Keating v. FEC
+Summary.”
+
+[^42]: Federal Elections Commission, “Speechnow.org v. FEC, Keating v. FEC
+Summary.”
+
+[^43]: Federal Elections Commission, “Speechnow.org v. FEC, Keating v. FEC
+Summary.”
+
+[^44]: Federal Elections Commission, “Speechnow.org v. FEC, Keating v. FEC
+Summary.”
+
+[^45]: Bill Mears, "Justices Strike Down Taxpayer-supported Campaign Spending
+Law," CNN (June 27, 2011).
+(http://edition.cnn.com/2011/US/06/27/scotus.arizona.campaign.finance/index.html).
+
+[^46]: Mears, “Justices Strike Down Taxpayer-supported Campaign Spending Law.”
+
+[^47]: Jess Bravins and Brent Kendall, “Campaign Funding Measure in Arizona
+Overturned,” *The Wall Street Journal* (June 28, 2011).
+(http://www.wsj.com/articles/SB10001424052702304447804576411652081842860).
+
+[^48]: Bravins, “Justices Strike Down Taxpayer-supported Campaign Spending Law.”
+
+[^49]: *Western Tradition Partnership, Inc. v. Attorney General of Montana,*
+2011 M.T. 328 (2012).
+(http://electionlawblog.org/wp-content/uploads/MT-expenditures-decision.pdf).
+
+[^50]: *Western Tradition Partnership, Inc. v. Attorney General of Montana,*
+2012.
+
+[^51]: Ben Jacobs. "Meet Sean McCutcheon, the Republican Activist Trying to Make
+History at the Supreme Court." *The Daily Beast* (October 8, 2013).
+(http://www.thedailybeast.com/articles/2013/10/08/meet-shaun-mccutcheon-the-republican-activist-trying-to-make-history-at-the-supreme-court.html).
+
+[^52]: Jacobs, “Meet Sean McCutcheon, the Republican Activist Trying to Make
+History at the Supreme Court.”
 
 Bentley, Nick. "What Is Citizens United? \| An Introduction." Reclaim Democracy
 –
